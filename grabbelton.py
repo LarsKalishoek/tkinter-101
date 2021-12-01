@@ -14,7 +14,7 @@ var = tkinter.StringVar()
 prize = tkinter.StringVar()
 y = True
 #stuff
-list1 = ["laptop", "tv", "V-Bucks gift-card", "Nintedo Switch", "PS5", "pakje condooms", "XBOX", "bodypillow", "gebruikte aa batterij", "tafel"]
+list1 = ["kaas", "tv", "batterij", "Switch", "PS5", "laptop", "XBOX", "controller", "aa batterij", "tafel"]
 def prizes():
     global var
     x = len(list1)
@@ -63,4 +63,4 @@ button = tkinter.Button(
 label.pack()
 button.pack()
 
-window.mainloop()
+window.mainloop()   
