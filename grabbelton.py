@@ -3,7 +3,6 @@ import random
 
 
 
-
 #make the window
 window = tkinter.Tk()
 window.title("Grabbleton")

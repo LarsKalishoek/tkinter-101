@@ -10,7 +10,7 @@ widget = tkinter.Label(
     text = "Hello\n tkinter!\n", 
     bg = "red",
     fg = "white",
-    font= ('Helvetica 12 bold')).place(relx=.2, rely=.2
+    font= ('Helvetica 12 bold')).place(relx=.25, rely=.2
     
     )
         
